@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Google Meet Transcript Capture",
+  "version": "1.0",
+  "description": "Captures and displays live transcripts from Google Meet conversations with advanced text tracking and alert features",
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://meet.google.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://meet.google.com/*"],
+      "js": ["caption_monitor.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
