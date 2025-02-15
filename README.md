@@ -1,6 +1,8 @@
 # Google Meet Transcript Capture
 
 A browser extension that captures and displays live transcripts from Google Meet conversations with advanced text tracking and alert features.
+![image](https://github.com/user-attachments/assets/8a5fe433-4dde-418d-ae2c-f17307a8660b)
+
 
 ## Features
 
