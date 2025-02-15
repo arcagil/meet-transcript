@@ -112,7 +112,7 @@ Speaker Names:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for the full license text.
 
-Copyright (c) 2025 Igor
+Copyright (c) 2025 arcagil
 
 You are free to:
 - Use this software for any purpose
